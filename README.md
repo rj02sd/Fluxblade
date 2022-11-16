@@ -1,7 +1,10 @@
-# FluxbladePreview
+# Fluxblade
+https://drive.google.com/file/d/1asm99kiDo_8n2RZgN-0buZ4QgwUrJEvN/view?usp=sharing  - link to zipped and packaged unreal engine 4 game - run .exe file
+
+https://www.youtube.com/watch?v=N7tFMcmglJc - link to newest final game showcase
 https://www.youtube.com/watch?v=-yJkc75JrNI - link to core showcase
 
-Solo Developed - FPS SURVIVAL
+Solo Developed - FPS SURVIVAL - SANDBOX VERSION RELEASED - CONTROLS ARE LISTED IN GAME
 
 Hook - Dynamic Graph Node Chain Eliminates Enemies 
 
@@ -15,10 +18,6 @@ Each of the 5 weapons has a different color, everytime you switch weapons, the e
 
 There is a jetpack and hover system for verticality, they use health as their energy, so the longer they are used, the more health is lost. There is also an overheat system in place for the jetpack.
 
-Time/Elimination Ratio determines the currency you recieve for each round of survival.
-
 For now the only thing you can buy with currency are titles which give stat bonuses and achievements. More is planned for later.
-
-Not yet implemented is level generation through portals in a mapping system. After you complete one map, you will travel to the next map, endlessly as they progressively get harder to complete. There will be enemy and map variation. 
 
 There are a lot of other details and features, but they are not all listed in this read me.
