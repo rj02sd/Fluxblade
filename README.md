@@ -1,4 +1,6 @@
 # Fluxblade
+Above is a gallery of images I took in game
+
 https://drive.google.com/file/d/1asm99kiDo_8n2RZgN-0buZ4QgwUrJEvN/view?usp=sharing  - link to zipped and packaged unreal engine 4 game - run .exe file
 
 https://www.youtube.com/watch?v=N7tFMcmglJc - link to newest final game showcase
