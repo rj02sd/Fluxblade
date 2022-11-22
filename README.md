@@ -21,6 +21,4 @@ Each of the 5 weapons has a different color, everytime you switch weapons, the e
 
 There is a jetpack and hover system for verticality, they use health as their energy, so the longer they are used, the more health is lost. There is also an overheat system in place for the jetpack.
 
-For now the only thing you can buy with currency are titles which give stat bonuses and achievements. More is planned for later.
-
 There are a lot of other details and features, but they are not all listed in this read me.
